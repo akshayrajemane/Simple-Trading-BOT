@@ -1,0 +1,17 @@
+2026-04-22 10:57:09,435 [INFO] Log : createClient() execution completed
+2026-04-22 10:57:09,436 [INFO] LOG : BOT running
+2026-04-22 10:57:09,581 [INFO] Log : getCurrValue() execution completed
+2026-04-22 10:57:09,581 [INFO] current price : 78272.980000
+2026-04-22 10:57:10,462 [INFO] Log : getAssetBalance() execution completed
+2026-04-22 10:57:10,469 [INFO] Current USDT Balance : 5018.325707
+2026-04-22 10:57:10,469 [INFO] Current symbol Balance : 0.010000
+2026-04-22 10:57:10,470 [INFO] Log : Quantity within balance limit 5018.325707
+2026-04-22 10:57:10,470 [INFO] Log : checkQuantity() execution completed
+2026-04-22 10:57:10,470 [INFO] Order requested for : 
+2026-04-22 10:57:10,470 [INFO] symbol=BTCUSDT
+2026-04-22 10:57:10,470 [INFO] volume=0.020000
+2026-04-22 10:57:10,470 [INFO] price=0.000000
+2026-04-22 10:57:10,613 [INFO] Log : buyMarketOrder() execution completed
+2026-04-22 10:57:10,614 [INFO] Log : printOrderResponseStatus() execution completed
+2026-04-22 10:57:10,628 [INFO] Log : printOrderResponseDetails() execution completed
+2026-04-22 10:57:10,628 [INFO] Log : BOT stopped
